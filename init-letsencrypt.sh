@@ -1,6 +1,6 @@
 #!/bin/bash
 
-domains=(signhere.com.br www.signhere.com.br)
+domains="signhere.com.br www.signhere.com.br"
 rsa_key_size=4096
 data_path="./data/certbot"
 email="rafael@programmare.me" # Adding a valid address is strongly recommended
